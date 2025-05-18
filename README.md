@@ -120,5 +120,3 @@ If you find a bug or have ideas for improvement, please open an [issue](https://
 Use responsibly and only on networks you are authorized to monitor.
 
 ---
-
-Let me know if you want badges, GIFs, advanced usage, or any other sections added!
